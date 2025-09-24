@@ -13,3 +13,5 @@ RoxygenNote: 7.3.2
 Imports: here
 Suggests: devtools,
     git2r
+URL: https://github.com/mat1506/ldmDiatoms13ka
+BugReports: https://github.com/mat1506/ldmDiatoms13ka/issues
